@@ -34,13 +34,13 @@ Inorder to provide atomicity critical parts are synchronised as well as @Transac
 -----------------------------------------------------------
 * Run tests com.identitye2e.libraryman in libraryman from IDE.
   or run the following command if the maven is installed and added to PATH environment variable.
-> mvn clean install
+* Run the following command on console/terminal.
+>_>mvn clean install
 
 -----------------------------------------------------------
 
 ## How to run Application
-Run LibrarymanApplication.main from an IDE: T
-The app starts on port 8088 by default.
+Run LibrarymanApplication.main from an IDE: The application starts on port 8088 by default.
 
 ## API Endpoints 
 ###_(After starting LibrarymanApplication.main, browse the following endpoints.)_
